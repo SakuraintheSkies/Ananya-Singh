@@ -61,11 +61,11 @@
 
 ---
 ### 🌟 Certificates
-<a href="certificate,diploma vector line icon, sign, illustration on background, editable strokes.jpeg?raw=true">
-  <img src="1684524503116.jpeg?raw=true" 
+<a href="1684524503116.jpeg?raw=true">
+  <img src="certificate,diploma vector line icon, sign, illustration on background, editable strokes.jpeg?raw=true" 
        alt="Python Essentials" 
-       title="Click to view full image" 
-       width="300"/>
+       title="Python Essentials" 
+       width="150"/>
 </a>
 
 
