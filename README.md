@@ -60,6 +60,24 @@
 | [Love Letter 💌](https://github.com/your-username/love-letter) | A virtual letter styled with pure HTML/CSS |
 
 ---
+## 🌸 Extra-Curriculars & Achievements
+
+| 🏷️ Role / Award | 📝 Description | 📅 Date |
+|------------------|----------------|---------|
+| 🎌 **Core Member**<br>Anime Club | Active member of the anime club contributing to planning & creative execution | Dec 2023 – Ongoing |
+| 🎭 **Core Member**<br>AdVITya Event & Planning Team | Organized Anime Club events with a ₹3 Lakh budget | Feb 2024 |
+| 🧘 **Core Member**<br>Yoga Awareness Event | Helped coordinate a wellness event under the Anime Club banner | Feb 2024 |
+| 👑 **President**<br>Anime Club | Leading club activities, strategy, and member engagement | Dec 2024 – Ongoing |
+
+---
+
+### 🏅 Achievements
+
+| 🏆 Title | 📝 Event | 📅 Date |
+|---------|---------|---------|
+| 🥉 **3rd Place** | Intra-University Drama Competition | Sept 2022 |
+| 🗣️ **Delegate** | MUN 2024 | Jan 2024 |
+| 🥇 **1st Place** | *Darpan* – AdVITya | Feb 2024 |
 
 ---
 
