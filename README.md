@@ -61,7 +61,13 @@
 
 ---
 ### 🌟 Certificates
-![Python Essentials](https://path/to/your/image.jpg "This is the image title")](https://path/to/your/large-image.jpg)
+<a href="certificate,diploma vector line icon, sign, illustration on background, editable strokes.jpeg?raw=true">
+  <img src="1684524503116.jpeg?raw=true" 
+       alt="Python Essentials" 
+       title="Click to view full image" 
+       width="300"/>
+</a>
+
 
 ## 🌸 Extra-Curriculars & Achievements
 
