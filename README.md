@@ -60,6 +60,9 @@
 | [Love Letter 💌](https://github.com/your-username/love-letter) | A virtual letter styled with pure HTML/CSS |
 
 ---
+### 🌟 Certificates
+![Python Essentials](https://path/to/your/image.jpg "This is the image title")](https://path/to/your/large-image.jpg)
+
 ## 🌸 Extra-Curriculars & Achievements
 
 | 🏷️ Role / Award | 📝 Description | 📅 Date |
