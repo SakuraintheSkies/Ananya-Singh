@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Hatsumi 💻</h1>
+<h1 align="center">Hi there 👋, I'm Ananya Rakhi Singh💻</h1>
 
 <p align="center">
   Student · Developer · Designer <br>
@@ -10,9 +10,9 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ananya-rakhi-singh-267850252" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ananyasingh54404@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ananyasingh54404@gmail.com"><img src="https://img.shields.io/badge/Official Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -20,19 +20,20 @@
 ### 🛠️ I’m currently working with …
 
 #### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 
+
 #### Creative Projects
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
 
 #### Cloud & Security
 ![AWS](https://img.shields.io/badge/AWS-F7931E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![KMS](https://img.shields.io/badge/KMS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ACM](https://img.shields.io/badge/ACM-FF7C00?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -45,6 +46,8 @@
 ![DSA](https://img.shields.io/badge/DSA-Algorithmic-blueviolet?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Japanese](https://img.shields.io/badge/日本語-日本語学習中-ff69b4?style=for-the-badge)
+![Français](https://img.shields.io/badge/Français-En%20cours%20d'apprentissage-blue?style=for-the-badge)
+
 
 ---
 
